@@ -1,0 +1,13 @@
+C:\Users\Server9\source\repos\Minimart\Minimart\bin\Debug\Minimart.exe.config
+C:\Users\Server9\source\repos\Minimart\Minimart\bin\Debug\Minimart.exe
+C:\Users\Server9\source\repos\Minimart\Minimart\bin\Debug\Minimart.pdb
+C:\Users\Server9\source\repos\Minimart\Minimart\bin\Debug\Minimart.xml
+C:\Users\Server9\source\repos\Minimart\Minimart\obj\Debug\Minimart.Form1.resources
+C:\Users\Server9\source\repos\Minimart\Minimart\obj\Debug\Minimart.Resources.resources
+C:\Users\Server9\source\repos\Minimart\Minimart\obj\Debug\Minimart.vbproj.GenerateResource.cache
+C:\Users\Server9\source\repos\Minimart\Minimart\obj\Debug\Minimart.vbproj.CoreCompileInputs.cache
+C:\Users\Server9\source\repos\Minimart\Minimart\obj\Debug\Minimart.exe
+C:\Users\Server9\source\repos\Minimart\Minimart\obj\Debug\Minimart.xml
+C:\Users\Server9\source\repos\Minimart\Minimart\obj\Debug\Minimart.pdb
+C:\Users\Server9\source\repos\Minimart\Minimart\obj\Debug\Minimart.vbproj.AssemblyReference.cache
+C:\Users\Server9\source\repos\Minimart\Minimart\obj\Debug\Minimart.ProductSell.resources
