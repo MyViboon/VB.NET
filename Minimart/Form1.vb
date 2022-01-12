@@ -100,7 +100,7 @@
         ProductID.Text = DataGridView1.CurrentRow.Cells(0).Value
         ProductName.Text = DataGridView1.CurrentRow.Cells(1).Value
         ProductPrice.Text = DataGridView1.CurrentRow.Cells(2).Value
-        ProductPrice.Text = CDbl(ProductPrice.Text).ToString("##,##0.00")
+        'ProductPrice.Text = CDbl(ProductPrice.Text).ToString("##,##0.00")
         ProductQty.Text = DataGridView1.CurrentRow.Cells(3).Value
         ProductType.Text = DataGridView1.CurrentRow.Cells(4).Value
         ProductUnit.Text = DataGridView1.CurrentRow.Cells(5).Value
